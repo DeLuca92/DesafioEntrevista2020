@@ -19,7 +19,7 @@ Softwares necessários: IDE: Netbeans Java; Google Chrome e ChromeDrive
 10.  Selecione um método de pagamento e prossiga.
 11.  Confirme a compra e valide se foi finalizada com sucesso.
 
-# Executando o script -
+# Executando o script - Passo a Passo
 
 1.  Baixe o projeto e descompacte-o;
 2.  Acesse o Netbeans;
